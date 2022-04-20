@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerPaul926
 - 👀 I’m interested in computer science and music
-- 🌱 I’m currently learning html/css
+- 🌱 I currently know html/css and im learning python
 
 
 <!---
