@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hyroxl
 - 👀 I’m interested in computer science and music
-- 🌱 I currently know html/css, python, and java. im learning c. i want to learn rust 
+- 🌱 I currently know html/css, python, java, and c. i want to learn rust 
 
 
 <!---
